@@ -1,0 +1,28 @@
+{
+  "name": "automation-cashflow-forecast",
+  "version": "1.0.0",
+  "description": "Cash-flow forecast: dependency-free Node.js script",
+  "type": "module",
+  "license": "MIT",
+  "author": "Elzam MAMAH <ceo@monsieurelzam.com> (https://monsieurelzam.com)",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "automation-cashflow-forecast": "src/cashflow-forecast.mjs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonsieurElzam/automation-cashflow-forecast.git"
+  },
+  "homepage": "https://monsieurelzam.com/en/scripts",
+  "keywords": [
+    "automation",
+    "cli",
+    "nodejs",
+    "cashflow-forecast"
+  ]
+}

@@ -1,0 +1,8 @@
+date,label,amount,recurrence,end
+2026-11-01,Solde de tout compte client A,400000,none,
+2026-11-05,Abonnement client B,150000,monthly,
+2026-11-01,Loyer,-120000,monthly,
+2026-11-10,Logiciels et abonnements,-45000,monthly,
+2026-11-15,Salaire,-250000,monthly,
+2026-12-20,Assurance annuelle,-180000,yearly,
+2027-01-15,Gros contrat client C,600000,none,
